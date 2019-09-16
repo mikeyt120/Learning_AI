@@ -8,4 +8,4 @@ Learning AI: Installations --------------------------> https://youtu.be/Q0Bk3nHC
 <br>
 Learning AI: Simple Linear Regression ------------> https://youtu.be/Lag7j6zydgk               
 <br>
-
+Learning AI: Multi-Linear Regression -------------> https://youtu.be/32WE3ggoYx4
